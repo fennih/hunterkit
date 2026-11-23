@@ -1,0 +1,6 @@
+# Runtime hunt output
+findings/
+# Captured eval runs (local paths, raw transcripts)
+evals/routing/runs/
+.DS_Store
+*.local
